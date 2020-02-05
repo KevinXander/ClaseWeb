@@ -1,0 +1,51 @@
+.o-img-container
+{
+    background-color: firebrick;
+    width: 100%;
+}
+
+.o-img
+{
+    width: 20%;
+}
+
+.o-info-container
+{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.o-title
+{
+    font-size: 1em;
+}
+
+.o-subtitle
+{
+    font-size: 0.8em;
+}
+
+.o-paragraph
+{
+    font-size: 0.5em;
+    color: blue;
+}
+
+.o-hobbie-container
+{
+    width: 20%;
+    margin: 1rem;
+    padding: 2rem 1rem;
+    background-color: dodgerblue;
+    color: floralwhite;
+}
+
+.o-orange
+{
+    background-color: orangered;
+}
+
+.o-green
+{
+    background-color: darkolivegreen;
+}
